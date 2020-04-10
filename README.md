@@ -1,6 +1,6 @@
 # BUAAMathmodeling-thesis
 
-北航数学建模 LaTeX 模板 @ 专用版本（草
+软院数学建模 LaTeX 模板 @ 专用版本（草
 
 ## 项目说明
 
@@ -20,7 +20,7 @@
 **作者的使用环境：完整安装TeX Live 2019 + Typora + Pandoc**
 
 ## 使用方法
-0. \[推荐\]从Typora输出.tex文件之后，调整`build.py`的参数，然后运行`build.py`脚本一键生成.pdf。
+0. \[推荐\]从Typora输出.tex文件之后，调整`build.py`的参数，然后运行`build.py`脚本一键生成.pdf。  
 --------- 原使用方法 ---------
 1. 可以使用命令行或 PowerShell 等，配合项目中的 `mamske.bat` 批处理文件进行编译，详细使用方法请见 `mamske.bat` 文件；
 
