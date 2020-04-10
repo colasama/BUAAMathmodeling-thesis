@@ -6,6 +6,8 @@
 
 基于北航开源俱乐部维护的的北航毕设论文的 LaTeX 模板修改的数学建模论文模板
 
+原项目地址：https://github.com/BHOSC/BUAAthesis
+
 ## 依赖
 
 模板依赖 v2.0 及以上版本的 ctex 包，请使用较新版本的 LaTeX 发行版。
